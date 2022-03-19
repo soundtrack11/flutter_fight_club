@@ -12,4 +12,7 @@ class FightClubColors {
   static const darkGreyText = Color(0xFF161616);
   static const whiteText = Color.fromRGBO(255, 255, 255, 0.87);
   static const darkPurple = Color(0xFFC5D1EA);
+
+  static const green = Color(0xFF038800);
+  static const red = Color(0xFFEA2c2c);
 }
